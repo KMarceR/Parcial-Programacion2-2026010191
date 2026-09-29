@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        Vendedor vendedor = new Vendedor("Marcela Rosales", 2000.0);
+        Vendedor vendedor = new Vendedor("Karla Bonilla", 5000.0);
         System.out.println("--- Ejecución con Comisión Estándar ---");
         vendedor.mostrarDetalle();
 
